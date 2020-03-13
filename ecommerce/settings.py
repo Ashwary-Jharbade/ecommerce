@@ -132,9 +132,9 @@ MEDIA_URL = '/media/'
 
 
 
-PAYU_MERCHANT_KEY = "y8BgPUeX",
+PAYU_MERCHANT_KEY = "**********",
 
-PAYU_MERCHANT_SALT = "zk1UUPFXFg",
+PAYU_MERCHANT_SALT = "**********",
 
 # And add the PAYU_MODE to 'TEST' for testing and 'LIVE' for production.
 PAYU_MODE = "TEST"
